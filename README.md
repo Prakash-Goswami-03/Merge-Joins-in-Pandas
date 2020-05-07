@@ -3,8 +3,8 @@ Required
 2.Jupiter Notebook
 
 
-Merge and Join in Pandas
-#
+****Merge and Join in Pandas****
+
 Pandas has full-featured, high performance in-memory join operations idiomatically very similar 
 to relational databases like SQL.
 
