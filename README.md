@@ -1,5 +1,5 @@
-Required
-1. Python 3.7
+***Required***
+1. Python 3.7         
 2.Jupiter Notebook
 
 
